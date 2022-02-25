@@ -1,5 +1,15 @@
-# aspnet-core-3-registration-login-api
+# OCEANIC AIRLINES
 
-ASP.NET Core 3.1 - Simple API for User Management, Authentication and Registration
+API for User Management, Authentication and Registration:
 
-For documentation and instructions check out https://jasonwatmore.com/post/2019/10/14/aspnet-core-3-simple-api-for-authentication-registration-and-user-management
+Register: http://{your domain}/users/register
+
+Authenticate: http://{your domain}/users/authenticate
+
+Get All The User: http://{your domain}/Users
+
+Get a User: http://{your domain}/Users/{id}
+
+Update a User: http://{your domain}/users/1
+
+Delete user by ID: http://{your domain}/Users/1
